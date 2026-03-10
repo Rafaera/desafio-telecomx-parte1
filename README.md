@@ -48,7 +48,7 @@ desafio-telecomx-parte1/
 ### Distribuição de Churn
 > 73,46% dos clientes permaneceram | 26,54% cancelaram
 
-### Churn por Tipo de Contrato ⚠️
+### Churn por Tipo de Contrato 
 Clientes com contrato `Month-to-month` apresentam churn muito superior aos demais. Contratos anuais e bianuais estão fortemente associados à retenção.
 
 > **Insight:** O tipo de contrato é um dos fatores mais críticos para a evasão.
